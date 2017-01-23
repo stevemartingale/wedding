@@ -6,3 +6,5 @@ title: Event info
 description: |
 ---
   Here is the schedule: 5pm start, 10 pm end, 11 pm afterparty awesomeness
+
+  <script src="https://hackpad.com/UGLE2lqDK1u.js"></script><noscript><div>View <a href="https://hackpad.com/UGLE2lqDK1u">Chugly Wedding</a> on Hackpad.</div></noscript>
