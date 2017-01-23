@@ -3,15 +3,13 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+title: Chelsey and Gully Wedding
+email: chuglywed@gmail.com
+author: Chelsey Contillo and Michael Gully-Santiago
+description: > # "Homepage for Chelsey Contillo and Michael Gully-Santiago
+ wedding in Austin Texas on October 28, 2017.  
+copyright: 'Copyright &copy; 2017 Chelsey and Gully. All Rights Reserved.'
+credits: 'Credits: forked from Shane Weng.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,9 +24,12 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+    text: Blog
+    url: http://chugly.github.io/
+  - title: instagram
+    text: Photos
+    url: https://www.instagram.com/explore/tags/chuglywed/
+  - title: spotify
+    text: Playlist
+    url: https://open.spotify.com/user/126045799/playlist/1KnnWPmEOm3PiQ93mpAQuF
