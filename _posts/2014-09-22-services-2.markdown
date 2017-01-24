@@ -1,10 +1,12 @@
 ---
 layout: default
-img: dog.png
+img: Chels_Gully_CCTV.jpg
 category: Services
-title: Housing
+title: Accommodations
 description: |
 ---
 
 
-heyyy
+Although the ceremony and reception are in Georgetown, we recommend you stay in Austin to explore the "live music capital of the world".  There are also great outdoor running trails, and great food.  
+
+As of January 2017 we are still exploring whether or not to get a block of hotel rooms. We welcome your input.

@@ -1,8 +1,12 @@
 ---
 layout: default
-img: phones.png
+img: IMG_7213.jpg
 category: Services
-title: RSVP
+title: Transportation
 description: |
 ---
-Please RSVP for the event!
+
+
+Georgetown is 23 miles north of downtown Austin, about 30 minute drive up I-35.  We are happy to facilitate carpools, and are looking into renting shuttles if there is enough interest.  
+
+If you have an opinion on this, or would like to go car-free during your stay in Austin, give us a call.  We'd like to hear from you to make the event safe and fun for everyone!
