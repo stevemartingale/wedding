@@ -1,10 +1,31 @@
 ---
 layout: default
-img: ipad.png
+img: chels_texas_sign.png
 category: Services
-title: Event info
+title: Location and schedule
 description: |
 ---
-  Here is the schedule: 5pm start, 10 pm end, 11 pm afterparty awesomeness
 
-  <script src="https://hackpad.com/UGLE2lqDK1u.js"></script><noscript><div>View <a href="https://hackpad.com/UGLE2lqDK1u">Chugly Wedding</a> on Hackpad.</div></noscript>
+### Friday, October 27, 2017
+
+*Rehearsal dinner for wedding party* 
+
+- **9:00 pm** Dancing at [White Horse](https://www.yelp.com/biz/the-white-horse-austin), East Austin, Texas
+
+### Saturday, October 28, 2017
+
+*[Pearl Snap Hall](http://www.pearlsnaphall.com), Georgetown, Texas*
+
+- **5:00 pm Ceremony**
+- 5:30 pm Cocktail hour and apps
+- 7:00 pm Dinner
+- 8:00 pm Live music and dancing
+- 10:00 pm Doors close
+
+*Afterparty*
+
+- 10:30 pm afterparty in Downtown Austin
+
+### Sunday, October 29, 2017
+
+*Brunch*

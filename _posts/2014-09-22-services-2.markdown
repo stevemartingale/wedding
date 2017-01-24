@@ -5,4 +5,6 @@ category: Services
 title: Housing
 description: |
 ---
-  There are many options for housing in Austin!  We recommend airbnb or any of the many hotels.  
+
+
+heyyy
