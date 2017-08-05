@@ -7,7 +7,7 @@ title: Chelsey and Gully Wedding
 email: chuglywed@gmail.com
 author: Chelsey Contillo and Michael Gully-Santiago
 description: > # "Homepage for Chelsey Contillo and Michael Gully-Santiago
- wedding in Austin Texas on October 28, 2017.  
+ wedding in Austin Texas on October 28, 2017.
 copyright: 'Copyright &copy; 2017 Chelsey and Gully. All Rights Reserved.'
 credits: 'Credits: forked from Shane Weng.'
 
@@ -36,3 +36,6 @@ social:
   - title: spotify
     text: Playlist
     url: https://open.spotify.com/user/126045799/playlist/1KnnWPmEOm3PiQ93mpAQuF
+  - title: envelope-open-o
+    text: RSVP
+    url: https://goo.gl/forms/PDVQXXai2lVgKkqW2
