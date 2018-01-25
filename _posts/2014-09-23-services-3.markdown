@@ -1,14 +1,10 @@
 ---
 layout: default
-img: IMG_7213.jpg
+img: bmore.jpg
 category: Services
 title: Transportation
 description: |
 ---
 
 
-Georgetown is 23 miles north of downtown Austin.  Driving on I-35, head north for about 30 minutes and the venue is a short distance from the highway exit.  We are happy to facilitate carpools, and will be renting a shuttle on the day of the wedding for those who are interested. We'll have a sign-up available for the shuttle as the date approaches. 
-
-Update: [Uber and Lyft will return to Austin](http://www.latimes.com/business/technology/la-fi-tn-uber-austin-20170529-story.html)   
-
-We'd like to hear from you about your transportation needs in order to make the event safe and fun for everyone!
+Since the venue is a little out of town, we are going to try to coordinate carpooling and/or get a van.  So please let us know once you've booked your travel when you are arriving and departing.

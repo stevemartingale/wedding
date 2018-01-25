@@ -1,51 +1,11 @@
 ---
 layout: default
-img: Chels_Gully_CCTV.jpg
+img: jess_wedding.jpg
 category: Services
 title: Accommodations
 description: |
 ---
 
 
-Although the ceremony and reception are in Georgetown, we recommend you stay in Austin to explore the "live music capital of the world".  There are also great outdoor running trails and great food.  
-
-
-### <i class="fa fa-shower" aria-hidden="true"></i> AirBnB
-Hotels in Austin are expensive.  AirBnB is a great way to stay in a cool Austin neighborhood and save some money! 
-We've started an AirBnB wishlist to get you started on your search:  
-[Austin AirBnB suggestions](https://www.airbnb.com/wishlists/204150664/join?invite_code=QNCUYPRG&inviter_id=583562)
-
-
-
-If you're new to AirBnB, you can [sign up](www.airbnb.com/c/ggully).
-
-### <i class="fa fa-bed" aria-hidden="true"></i> Hotels
-We've reserved two hotel blocks for our guests. Both hotels are conveniently located in or near downtown Austin.
-
-#### Radisson Hotel & Suites Austin Downtown  
-111 E Cesar Chavez St, Austin, TX 78701  
-[https://aws.passkey.com/go/ContilloGullySantiagoBlock](https://aws.passkey.com/go/ContilloGullySantiagoBlock)  
-King Room $235 per night  
-Suite $275 per night  
-Parking $20 per night  
-
-#### Extended Stay America Austin   
-507 South First Street Austin, TX 78704  
-Contact Group Sales 1-877-701-3383   
-Mention Contillo & Gully-Santiago Wedding      
-Single Queen Room $129 per night   
-Double Queen Room $149 per night  
-
-
-Here are some other excellent hotel options that don't have a group rate:    
-
-#### South Congress
-- [Austin Motel](http://www.austinmotel.com/) $$
-- [Hotel San Jose](http://www.sanjosehotel.com/) $$$
-
-#### Downtown
-- [The Driskill](http://www.driskillhotel.com/) $$$
-
-#### UTexas Campus
-- [Austin Folk House](http://austinfolkhouse.com/) $
+We have our eye on a couple of houses out in the Hill Country (we expect about an hour outside of Austin), but are holding off until we get a better sense of the RSVPs.  We'll send an update once the exact location is final.  But no need for you to book accommodations in the meantime!
 
