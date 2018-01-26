@@ -10,7 +10,7 @@ description: > # "Homepage for Allyson and Stephen's wedding celebration weekend
  in Austin Texas on April 6-8 2018.
 copyright: ''
 credits: ''
-
+include: [_redirects]
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
